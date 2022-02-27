@@ -1,24 +1,9 @@
-# README
+[![Test Coverage](https://api.codeclimate.com/v1/badges/462588ce4ab2eac46e2c/test_coverage)](https://codeclimate.com/github/Anastasiachyp/unter_challenge/test_coverage)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+[![Build Status](https://anastasiachyp.semaphoreci.com/badges/unter_challenge/branches/development.svg?style=shields)](https://anastasiachyp.semaphoreci.com/projects/unter_challenge)
+# UNTER CHALLENGE
 
-Things you may want to cover:
+CA Unter Challenge February 2022 Rails with CD and CI 
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Link to deployed app on Heroku:
+https://unter-challenge-febb-2022.herokuapp.com/
